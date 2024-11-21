@@ -1,4 +1,5 @@
 # StudyNotion Edtech Project
+This website only for Desktop site
 [Visit StudyNotion Ed-Tech Platform](https://studynotion-ed-tech-platform-xi.vercel.app/)
 
 
